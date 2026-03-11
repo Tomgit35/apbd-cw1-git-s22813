@@ -2,6 +2,7 @@
 
 static double CalculateAverage(int[] values)
 {
+    double test = 0;
     double sum = 0;
     return values.Sum() / values.Length;
 }
