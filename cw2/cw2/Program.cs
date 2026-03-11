@@ -3,4 +3,5 @@
 static double CalculateAverage(int[] values)
 {
     double sum = 0;
+    return values.Sum() / values.Length;
 }
