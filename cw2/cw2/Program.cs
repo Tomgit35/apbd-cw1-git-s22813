@@ -12,3 +12,8 @@ static int CalculateMax(int[] values)
     int max = values[0];
     return values.Max();
 }
+
+static int CalculateMin(int[] values)
+{
+    
+}
