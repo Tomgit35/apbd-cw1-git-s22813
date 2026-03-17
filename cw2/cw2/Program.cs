@@ -13,8 +13,8 @@ static int CalculateMax(int[] values)
     return values.Max();
 }
 
-static int CalculatePow(int values)
+static int CalculatePo(int values)
 {
-    int pow = values*values;
-    return pow;
+    int po = values*values;
+    return po;
 }
